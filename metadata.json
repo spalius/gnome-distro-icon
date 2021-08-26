@@ -1,0 +1,8 @@
+{
+    "name": "GNOME Distribution Logo",
+    "description": "A small extension used to display your Linux distribution's logo in the Activities button.",
+    "shell-version": ["40"],
+    "url": "",
+    "uuid": "gnome-distro-icond@spalius.com",
+    "version": 0.1
+}
