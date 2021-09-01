@@ -1,5 +1,5 @@
 # gnome-distro-icon
-A small extension used to display your Linux distribution's logo in the Activities button.
+A small extension used to display your Linux distribution's logo in the Activities button. Upon pressing it, the settings menu will open.
 ## Contributing
 Feel free to open up a pull request if you want to contribute.
 
