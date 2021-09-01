@@ -16,7 +16,6 @@ function init () {
         );
     }
 
-    // Create a Button with "Hello World" text
     panelButton = new St.Button({
         style_class : "panel-button",
         reactive: true,
